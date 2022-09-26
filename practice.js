@@ -6,4 +6,4 @@ console.log("sai third line");
 
 console.log("sai beanch is created");
 
-console.log("about to remove this committed");
+about to remove this committed ChannelMergerNode;
