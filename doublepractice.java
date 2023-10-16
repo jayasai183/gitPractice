@@ -1,2 +1,1 @@
-jaya sai vardhan
-polamada vardhan polamada
+it only has double practice data
