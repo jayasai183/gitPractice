@@ -1,8 +1,3 @@
 
-System.out.println("SAI"):
-	
-Sai vardhan
-
-System.out.println("SAI"):jay
-
-sai vardhan ajya
+added sai data
+ it has only practice data
